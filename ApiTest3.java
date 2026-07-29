@@ -24,7 +24,7 @@ public class ApiTest3{
 
         String body = response.body();
 
-        if (body.contains("\"status\":\"Alive\"") && body.contains("\"species\":\"Alien\"")){
+        if (body.contains("\"status\":\"Dead\"") && body.contains("\"species\":\"Alien\"")){
           System.out.println("Um Alien foi encontrado morto com o ID " + i);;
         }
 
