@@ -1,0 +1,124 @@
+31-Jul-2026 11:44:18.471 INFO [main] org.apache.openejb.persistence.PersistenceBootstrap.getDefaultProvider Default JPA Provider changed to org.eclipse.persistence.jpa.PersistenceProvider specified by jar:file:/C:/Users/andre/Desktop/Programacao_JAVA/JAVA-EE/sondagem/target/apache-tomee/lib/openejb-core-eclipselink-10.0.0.jar!/META-INF/org.apache.openejb.persistence.PersistenceBootstrap.provider
+31-Jul-2026 11:44:19.936 INFO [main] java.lang.reflect.Method.invoke Server version name:   Apache Tomcat (TomEE)/10.1.34 (10.0.0)
+31-Jul-2026 11:44:19.937 INFO [main] java.lang.reflect.Method.invoke Server built:          Dec 5 2024 16:01:16 UTC
+31-Jul-2026 11:44:19.937 INFO [main] java.lang.reflect.Method.invoke Server version number: 10.1.34.0
+31-Jul-2026 11:44:19.938 INFO [main] java.lang.reflect.Method.invoke OS Name:               Windows 11
+31-Jul-2026 11:44:19.938 INFO [main] java.lang.reflect.Method.invoke OS Version:            10.0
+31-Jul-2026 11:44:19.940 INFO [main] java.lang.reflect.Method.invoke Architecture:          amd64
+31-Jul-2026 11:44:19.940 INFO [main] java.lang.reflect.Method.invoke Java Home:             C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot
+31-Jul-2026 11:44:19.941 INFO [main] java.lang.reflect.Method.invoke JVM Version:           21.0.11+10-LTS
+31-Jul-2026 11:44:19.941 INFO [main] java.lang.reflect.Method.invoke JVM Vendor:            Eclipse Adoptium
+31-Jul-2026 11:44:19.942 INFO [main] java.lang.reflect.Method.invoke CATALINA_BASE:         C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:19.943 INFO [main] java.lang.reflect.Method.invoke CATALINA_HOME:         C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:19.945 INFO [main] java.lang.reflect.Method.invoke Command line argument: -XX:+HeapDumpOnOutOfMemoryError
+31-Jul-2026 11:44:19.945 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dorg.apache.catalina.STRICT_SERVLET_COMPLIANCE=false
+31-Jul-2026 11:44:19.947 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dopenejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager
+31-Jul-2026 11:44:19.947 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dtomee.remote.support=true
+31-Jul-2026 11:44:19.947 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dopenejb.system.apps=false
+31-Jul-2026 11:44:19.947 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dtomee.jsp-development=true
+31-Jul-2026 11:44:19.949 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Djava.util.logging.config.file=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\conf\logging.properties
+31-Jul-2026 11:44:19.949 INFO [main] java.lang.reflect.Method.invoke Command line argument: -javaagent:C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\lib\openejb-javaagent.jar
+31-Jul-2026 11:44:19.949 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jul-2026 11:44:19.949 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Djava.io.tmpdir=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\temp
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dcatalina.base=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dcatalina.home=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dcatalina.ext.dirs=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\lib
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: -Dorg.apache.tomcat.util.http.ServerCookie.ALLOW_HTTP_SEPARATORS_IN_V0=true
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: -ea
+31-Jul-2026 11:44:19.950 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/jdk.internal.loader=ALL-UNNAMED
+31-Jul-2026 11:44:19.952 INFO [main] java.lang.reflect.Method.invoke Command line argument: --add-opens=java.base/java.net=ALL-UNNAMED
+31-Jul-2026 11:44:20.023 INFO [main] java.lang.reflect.Method.invoke The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;c:\Users\andre\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\debugCommand;c:\Users\andre\AppData\Roaming\Code\User\globalStorage\github.copilot-chat\copilotCli;C:\Program Files\Eclipse Adoptium\jdk-21.0.11.10-hotspot\bin;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\apache-maven-3.9.16\bin;C:\Users\andre\.local\bin;C:\Users\andre\AppData\Local\Programs\Python\Python313\Scripts\;C:\Users\andre\AppData\Local\Programs\Python\Python313\;C:\Users\andre\AppData\Local\Microsoft\WindowsApps;C:\Users\andre\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\andre\AppData\Local\Python\bin;c:\Users\andre\.vscode\extensions\vscjava.vscode-java-debug-0.59.0\bundled\scripts\noConfigScripts;.]
+31-Jul-2026 11:44:22.415 INFO [main] java.lang.reflect.Method.invoke Initializing ProtocolHandler ["http-nio-8080"]
+31-Jul-2026 11:44:23.974 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.remote.support=true'
+31-Jul-2026 11:44:24.029 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.jdbc.datasource-creator=org.apache.tomee.jdbc.TomEEDataSourceCreator'
+31-Jul-2026 11:44:24.732 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+31-Jul-2026 11:44:24.733 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> OpenEJB http://tomee.apache.org/
+31-Jul-2026 11:44:24.733 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Startup: Fri Jul 31 11:44:24 WEST 2026
+31-Jul-2026 11:44:24.733 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Copyright 1999-2024 (C) Apache TomEE Project, All Rights Reserved.
+31-Jul-2026 11:44:24.734 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Version: 10.0.0
+31-Jul-2026 11:44:24.735 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build date: 20241216
+31-Jul-2026 11:44:24.735 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> Build time: 08:43
+31-Jul-2026 11:44:24.736 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> ********************************************************************************
+31-Jul-2026 11:44:24.737 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.home = C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:24.738 INFO [main] org.apache.openejb.OpenEJB$Instance.<init> openejb.base = C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee
+31-Jul-2026 11:44:24.743 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Created new singletonService org.apache.openejb.cdi.ThreadSingletonServiceImpl@3f9342d4
+31-Jul-2026 11:44:24.761 INFO [main] org.apache.openejb.cdi.CdiBuilder.initializeOWB Succeeded in installing singleton service
+31-Jul-2026 11:44:25.013 INFO [main] org.apache.openejb.config.ConfigurationFactory.init TomEE configuration file is 'C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\conf\tomee.xml'
+31-Jul-2026 11:44:25.233 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Tomcat Security Service, type=SecurityService, provider-id=Tomcat Security Service)
+31-Jul-2026 11:44:25.238 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Transaction Manager, type=TransactionManager, provider-id=Default Transaction Manager)
+31-Jul-2026 11:44:25.247 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.system.apps=false'
+31-Jul-2026 11:44:25.248 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.deployments.classpath=false'
+31-Jul-2026 11:44:25.399 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating TransactionManager(id=Default Transaction Manager)
+31-Jul-2026 11:44:26.001 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating SecurityService(id=Tomcat Security Service)
+31-Jul-2026 11:44:26.524 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf)
+31-Jul-2026 11:44:27.825 INFO [main] org.apache.openejb.server.ServiceManager.initServer Creating ServerService(id=cxf-rs)
+31-Jul-2026 11:44:28.120 INFO [main] org.apache.openejb.server.SimpleServiceManager.start   ** Bound Services **
+31-Jul-2026 11:44:28.125 INFO [main] org.apache.openejb.server.SimpleServiceManager.printRow   NAME                 IP              PORT  
+31-Jul-2026 11:44:28.125 INFO [main] org.apache.openejb.server.SimpleServiceManager.start -------
+31-Jul-2026 11:44:28.125 INFO [main] org.apache.openejb.server.SimpleServiceManager.start Ready!
+31-Jul-2026 11:44:28.126 INFO [main] java.lang.reflect.Method.invoke Server initialization in [9415] milliseconds
+31-Jul-2026 11:44:28.295 INFO [main] org.apache.tomee.catalina.OpenEJBNamingContextListener.bindResource Importing a Tomcat Resource with id 'UserDatabase' of type 'org.apache.catalina.UserDatabase'.
+31-Jul-2026 11:44:28.296 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Resource(id=UserDatabase)
+31-Jul-2026 11:44:28.379 INFO [main] java.lang.reflect.Method.invoke Starting service [Catalina]
+31-Jul-2026 11:44:28.379 INFO [main] java.lang.reflect.Method.invoke Starting Servlet engine: [Apache Tomcat (TomEE)/10.1.34 (10.0.0)]
+31-Jul-2026 11:44:28.489 INFO [main] java.lang.reflect.Method.invoke Deploying web application archive [C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT.war]
+31-Jul-2026 11:44:28.523 INFO [main] org.apache.tomee.catalina.TomcatWebAppBuilder.init ------------------------- localhost -> /
+31-Jul-2026 11:44:28.539 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracting jar: C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT.war
+31-Jul-2026 11:44:29.336 INFO [main] org.apache.openejb.util.JarExtractor.extract Extracted path: C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT
+31-Jul-2026 11:44:29.338 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'openejb.session.manager=org.apache.tomee.catalina.session.QuickSessionManager'
+31-Jul-2026 11:44:30.115 INFO [main] org.apache.openejb.util.OptionsLog.info Using 'tomee.mp.cdi.extensions=io.smallrye.config.inject.ConfigExtension,io.smallrye.faulttolerance.FaultToleranceExtension,io.smallrye.metrics.legacyapi.LegacyMetricsExtension,io.smallrye.opentelemetry.implementation.cdi.OpenTelemetryExtension,org.apache.cxf.microprofile.client.cdi.RestClientExtension,org.apache.tomee.microprofile.faulttolerance.MPFaultToleranceCDIExtension,org.apache.tomee.microprofile.health.MPHealthCDIExtension,org.apache.tomee.microprofile.jwt.cdi.MPJWTCDIExtension,org.apache.tomee.microprofile.opentelemetry.MPOpenTelemetryCDIExtension'
+31-Jul-2026 11:44:30.449 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureApplication Configuring enterprise application: C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT
+31-Jul-2026 11:44:31.006 INFO [main] org.apache.openejb.config.ConfigurationFactory.configureService Configuring Service(id=Default Managed Container, type=Container, provider-id=Default Managed Container)
+31-Jul-2026 11:44:31.008 INFO [main] org.apache.openejb.config.AutoConfig.createContainer Auto-creating a container for bean .Comp1415469015: Container(type=MANAGED, id=Default Managed Container)
+31-Jul-2026 11:44:31.009 INFO [main] org.apache.openejb.assembler.classic.Assembler.createRecipe Creating Container(id=Default Managed Container)
+31-Jul-2026 11:44:31.047 INFO [main] org.apache.openejb.core.managed.SimplePassivater.init Using directory C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\temp for stateful session passivation
+31-Jul-2026 11:44:31.214 INFO [main] org.apache.openejb.config.AppInfoBuilder.build Enterprise application "C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT" loaded.
+31-Jul-2026 11:44:31.329 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Assembling app: C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT
+31-Jul-2026 11:44:32.275 INFO [main] org.apache.openejb.assembler.classic.ValidatorBuilder.getConfig Ignoring XML Configuration for validator org.apache.bval.jsr.ConfigurationImpl
+31-Jul-2026 11:44:32.559 WARNING [main] org.apache.batchee.container.services.ServicesManager.init You didn't specify org.apache.batchee.jmx.application and JMX is already registered, skipping
+31-Jul-2026 11:44:32.565 INFO [main] org.apache.openejb.assembler.classic.Assembler.createApplication Deployed Application(path=C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT)
+31-Jul-2026 11:44:33.822 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+31-Jul-2026 11:44:34.079 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logApplication Application{path='http://localhost:8080/api', class=com.ricknm.RestApplication, resources=1, providers=0, invalids=0}
+31-Jul-2026 11:44:34.105 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logApplication Resource{clazz=com.ricknm.CensusResource, discovered=false, singleton=false}
+31-Jul-2026 11:44:34.870 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using readers:
+31-Jul-2026 11:44:34.871 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@37854b34
+31-Jul-2026 11:44:34.871 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@5762658b
+31-Jul-2026 11:44:34.871 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@2629d5dc
+31-Jul-2026 11:44:34.871 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@2596d7f4
+31-Jul-2026 11:44:34.872 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@42a0501e
+31-Jul-2026 11:44:34.872 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@6aa3bfc
+31-Jul-2026 11:44:34.873 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@290e8cab
+31-Jul-2026 11:44:34.873 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@48eb001a
+31-Jul-2026 11:44:34.873 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@34332b8d
+31-Jul-2026 11:44:34.874 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@724b939e
+31-Jul-2026 11:44:34.874 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@6f8aba08
+31-Jul-2026 11:44:34.875 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using writers:
+31-Jul-2026 11:44:34.876 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementTypedProvider@42a0501e
+31-Jul-2026 11:44:34.876 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.johnzon.jaxrs.WadlDocumentMessageBodyWriter@7ff19c33
+31-Jul-2026 11:44:34.876 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.StringTextProvider@34332b8d
+31-Jul-2026 11:44:34.877 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.nio.NioMessageBodyWriter@52b3bf03
+31-Jul-2026 11:44:34.877 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.PrimitiveTextProvider@37854b34
+31-Jul-2026 11:44:34.877 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.FormEncodingProvider@5762658b
+31-Jul-2026 11:44:34.878 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.MultipartProvider@2629d5dc
+31-Jul-2026 11:44:34.879 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.SourceProvider@2596d7f4
+31-Jul-2026 11:44:34.880 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.JAXBElementProvider@6aa3bfc
+31-Jul-2026 11:44:34.880 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonbProvider@290e8cab
+31-Jul-2026 11:44:34.881 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.johnzon.TomEEJsonpProvider@48eb001a
+31-Jul-2026 11:44:34.881 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.BinaryDataProvider@724b939e
+31-Jul-2026 11:44:34.882 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.provider.DataSourceProvider@6f8aba08
+31-Jul-2026 11:44:34.882 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication Using exception mappers:
+31-Jul-2026 11:44:34.882 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.impl.WebApplicationExceptionMapper@1115433e
+31-Jul-2026 11:44:34.884 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.EJBExceptionMapper@692dba54
+31-Jul-2026 11:44:34.884 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.cxf.jaxrs.validation.ValidationExceptionMapper@4fdca00a
+31-Jul-2026 11:44:34.884 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.deployApplication      org.apache.openejb.server.cxf.rs.CxfRsHttpListener$CxfResponseValidationExceptionMapper@513b52af
+31-Jul-2026 11:44:34.896 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints REST Application: http://localhost:8080/api        -> com.ricknm.RestApplication@5634a861
+31-Jul-2026 11:44:34.910 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints      Service URI: http://localhost:8080/api/census -> Pojo com.ricknm.CensusResource
+31-Jul-2026 11:44:34.910 INFO [main] org.apache.openejb.server.cxf.rs.CxfRsHttpListener.logEndpoints               GET http://localhost:8080/api/census ->      Response executarCenso(String, String, String)
+31-Jul-2026 11:44:35.139 INFO [main] java.lang.reflect.Method.invoke Deployment of web application archive [C:\Users\andre\Desktop\Programacao_JAVA\JAVA-EE\sondagem\target\apache-tomee\webapps\ROOT.war] has finished in [6,644] ms
+31-Jul-2026 11:44:35.391 INFO [main] java.lang.reflect.Method.invoke Starting ProtocolHandler ["http-nio-8080"]
+31-Jul-2026 11:44:35.521 INFO [main] java.lang.reflect.Method.invoke Server startup in [7393] milliseconds

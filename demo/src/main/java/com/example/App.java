@@ -1,20 +1,15 @@
 package com.example;
 
 import java.io.IOException;
+import jakarta.ws.rs.GET;
 
-import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.HttpServlet;
-import jakarta.servlet.http.HttpServletRequest;
-import jakarta.servlet.http.HttpServletResponse;
+@Path("/test/{User]")
+public class App{
 
+  @GET
+  public void ping(@QueryParam("id") int id, @PathParam("user") String user){
+    System.out.println("Olá");
 
-@WebServlet("/")
-public class App  extends HttpServlet {
-    
-    @Override
-    protected void doGet(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        resp.getWriter().write("Servlet Online!");
-
-    } 
+    System.out.println("Id igual a :" + id )
+  }
 }
