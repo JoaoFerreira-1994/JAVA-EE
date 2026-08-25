@@ -1,6 +1,5 @@
 com\example\Personagem.class
 com\example\PersonagemService.class
 com\example\PersonagemController.class
-com\example\private\opencollection.yml
 com\example\ApplicationConfig.class
 com\example\PersonagemRepository.class

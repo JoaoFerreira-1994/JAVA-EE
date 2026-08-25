@@ -1,0 +1,16 @@
+127.0.0.1 - - [25/Aug/2026:13:45:16 +0100] "PUT /api/personagem/2 HTTP/1.1" 404 -
+127.0.0.1 - - [25/Aug/2026:13:45:47 +0100] "PUT /api/personagem/2 HTTP/1.1" 404 -
+127.0.0.1 - - [25/Aug/2026:13:45:53 +0100] "PUT /api/personagem/1 HTTP/1.1" 404 -
+127.0.0.1 - - [25/Aug/2026:13:46:23 +0100] "PATCH /api/personagem/1 HTTP/1.1" 404 -
+127.0.0.1 - - [25/Aug/2026:13:46:38 +0100] "GET /api/personagem HTTP/1.1" 200 12
+127.0.0.1 - - [25/Aug/2026:13:46:58 +0100] "POST /api/personagem HTTP/1.1" 201 80
+127.0.0.1 - - [25/Aug/2026:13:47:05 +0100] "POST /api/personagem HTTP/1.1" 201 80
+127.0.0.1 - - [25/Aug/2026:13:47:14 +0100] "GET /api/personagem HTTP/1.1" 200 152
+127.0.0.1 - - [25/Aug/2026:13:47:33 +0100] "PUT /api/personagem/1 HTTP/1.1" 200 81
+127.0.0.1 - - [25/Aug/2026:13:47:41 +0100] "GET /api/personagem/1 HTTP/1.1" 200 81
+127.0.0.1 - - [25/Aug/2026:13:47:46 +0100] "GET /api/personagem HTTP/1.1" 200 153
+127.0.0.1 - - [25/Aug/2026:13:48:24 +0100] "PATCH /api/personagem/1 HTTP/1.1" 500 3261
+127.0.0.1 - - [25/Aug/2026:13:48:39 +0100] "PATCH /api/personagem/1 HTTP/1.1" 200 80
+127.0.0.1 - - [25/Aug/2026:13:48:53 +0100] "DELETE /api/personagem/1 HTTP/1.1" 204 -
+127.0.0.1 - - [25/Aug/2026:13:48:56 +0100] "DELETE /api/personagem HTTP/1.1" 405 -
+127.0.0.1 - - [25/Aug/2026:13:49:02 +0100] "GET /api/personagem HTTP/1.1" 200 82
